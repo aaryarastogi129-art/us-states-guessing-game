@@ -30,3 +30,13 @@ Python, Turtle Graphics, Pandas
 
 2\. Run main.py
 
+## Game Preview
+
+
+
+The game prompts the user to guess U.S. states. Correct guesses are labeled dynamically on the map.
+
+
+
+!\[U.S. States Game Demo](images/us\_states\_game\_demo.png)
+
