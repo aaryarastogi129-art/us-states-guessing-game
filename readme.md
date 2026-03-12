@@ -1,4 +1,4 @@
-\# U.S. States Guessing Game
+# U.S. States Guessing Game
 
 
 
@@ -6,25 +6,25 @@ An interactive geography quiz built with Python using Turtle graphics and Pandas
 
 
 
-\## Features
+## Features
 
-\- Guess all 50 U.S. states
+- Guess all 50 U.S. states
 
-\- Correct guesses appear on the map
+- Correct guesses appear on the map
 
-\- Case-insensitive input handling
+- Case-insensitive input handling
 
-\- Generates a CSV file of missed states for review
+- Generates a CSV file of missed states for review
 
 
 
-\## Technologies
+## Technologies
 
 Python, Turtle Graphics, Pandas
 
 
 
-\## How to Run
+## How to Run
 
 1\. Install pandas
 
@@ -38,5 +38,5 @@ The game prompts the user to guess U.S. states. Correct guesses are labeled dyna
 
 
 
-!\[U.S. States Game Demo](images/us\_states\_game\_demo.png)
+![U.S. States Game Demo](images/US_states_game_demo.png)
 
